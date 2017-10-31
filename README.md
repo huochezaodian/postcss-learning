@@ -1,5 +1,5 @@
 # postcss-learning
- some plugins of postcss
+ some plugins on postcss
  官网详细介绍[postcss](https://www.postcss.parts/)
 
 ## postcss-next
