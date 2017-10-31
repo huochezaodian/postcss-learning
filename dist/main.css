@@ -1,0 +1,62 @@
+body{
+	background-image: url(/dist/73f8c8b2ea1cea2fe3664134b33cd8ec.png);
+	background-position: 0px 0px;
+	background-size: 2048px 693px;
+}
+
+.common---wrap---3pSCj{
+	background-image: url(/dist/73f8c8b2ea1cea2fe3664134b33cd8ec.png);
+	background-position: -1024px 0px;
+	background-size: 2048px 693px;
+}
+.login---login-wrap---ZstZO{
+    width: 320px;
+    height: 200px;
+    margin: auto;
+    margin-top: 150px;
+    border: 1px solid #f5f5f5;
+    border-radius: 5px;
+    background-image: url(/dist/73f8c8b2ea1cea2fe3664134b33cd8ec.png);
+    background-position: 0px 0px;
+    background-size: 1024px 693px;
+}
+
+#login---content---PwTx8 {
+ 	display: -webkit-box;
+ 	display: -ms-flexbox;
+ 	display: flex
+}
+
+#login---content---PwTx8 .title {
+    font-size: 20px;
+}
+
+#login---content---PwTx8 {
+
+    .footer{
+		-webkit-box-flex:1;
+		    -ms-flex:1;
+		        flex:1;
+    }
+}
+ 
+body {
+ 	color: black;
+}
+
+.login---message---2Mpc3 {
+ 	font-weight: normal
+}
+
+.login---message---2Mpc3 .login---header---3P3tz {
+    font-weight: bold;
+}
+
+.login---body---1V7fN .login---message---2Mpc3{
+    color: black;
+}
+
+.title {
+ font-size: 20px;
+}
+/*# sourceMappingURL=main.css.map*/

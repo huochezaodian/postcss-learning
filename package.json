@@ -1,0 +1,35 @@
+{
+  "name": "chat-room",
+  "version": "1.0.0",
+  "description": "a chat room based on Vue",
+  "main": "index.js",
+  "scripts": {
+    "init": "webpack --progress --config webpack.dev.config.js",
+    "dev": "webpack-dev-server --content-base ./ --open --inline --hot --compress --history-api-fallback --config webpack.dev.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/huochezaodian/vue-chat"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "clean-webpack-plugin": "^0.1.17",
+    "css-loader": "^0.23.1",
+    "extract-text-webpack-plugin": "^2.0.0",
+    "file-loader": "^0.8.5",
+    "html-loader": "^0.3.0",
+    "html-webpack-plugin": "^2.28.0",
+    "postcss-assets": "^5.0.0",
+    "postcss-cssnext": "^3.0.2",
+    "postcss-loader": "^2.0.8",
+    "postcss-modules": "^1.1.0",
+    "postcss-sprites": "^4.2.1",
+    "style-loader": "^0.13.1",
+    "url-loader": "^0.5.7",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.4.1",
+    "webpack-merge": "^3.0.0"
+  }
+}

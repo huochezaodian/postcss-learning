@@ -1,0 +1,7 @@
+body{
+	background-image: resolve(bg.jpg);
+}
+
+.wrap{
+	background-image: resolve(bg2.jpg);
+}
